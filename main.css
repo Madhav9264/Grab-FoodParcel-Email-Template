@@ -1,0 +1,38 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+#tag{
+    margin-top: 30%;
+    margin-left: 10%;
+}
+
+#background{
+    background-image: url(./images/pax-food-hero-d.png);
+    background-position: center;
+    background-size: cover;
+}
+
+#orderLink{
+    background-color: rgba(0,46,39,255);
+}
+
+#downloadLink{
+    background-color: rgba(0,177,79,255);
+}
+
+#footerBar{
+    background-color: rgba(0,157,163,255);
+    padding: 1% 10%;
+}
+
+#footerWidget{
+    background-color: rgba(0,131,136,255);
+    padding: 1% 10%;
+}
+
+#footer{
+    background-color: rgba(54,58,69,255);
+    padding: 1% 10%;
+}
